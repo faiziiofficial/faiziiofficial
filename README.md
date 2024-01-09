@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @faiziiofficial
 - 👀 I’m interested in java bash c embedded c shell hacking everything.
-- 🌱 I’m currently learning  with computer+electronic..
-- 💞️ I’m looking to collaborate on  any bash programing
+- 🌱 I’m currently working as a devops in Deqode pune india
+
 ..
-- 📫 How to reach me email faizi.official@gmail.com or contact on whatsApp +918888005479...
+- 📫 How to reach me email faizi.official@gmail.com or contact on whatsApp +919322611013...
 
 <!---
 faiziiofficial/faiziiofficial is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
